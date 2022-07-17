@@ -1,6 +1,6 @@
 ° Almejo Desenvolvedor back-end em Python 🐍
 
-° Estuando Python/Django
+° Estudando Python/Django
   
 
 ## Olá sou Pedro Arthur, Estudante de programação
