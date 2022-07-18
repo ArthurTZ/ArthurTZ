@@ -1,5 +1,5 @@
 ° Almejo Desenvolvedor back-end em Python 🐍
-
+° Python ❤️❤
 ° Estudando Python/Django
   
 
