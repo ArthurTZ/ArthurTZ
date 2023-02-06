@@ -1,11 +1,9 @@
 ° Almejo Desenvolvedor back-end em Python 🐍
 
-° Python | HTML | CSS
-
-° Estudando Python/Django
+° Stack: Python, JavaScript, HTML-CSS,
   
 
-## Olá sou Pedro Arthur, Estudante de programação
+## Olá sou Pedro Arthur, Programador Back-End
 <div align="center">
   <a href="https://github.com/ArthurTZ">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurTZ&show_icons=false&theme=dracula&include_all_commits=true&count_private=true"/>
