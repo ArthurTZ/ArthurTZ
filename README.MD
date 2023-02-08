@@ -1,6 +1,7 @@
 ° Almejo Desenvolvedor back-end em Python 🐍
 
-° Stack: Python, JavaScript, HTML-CSS,
+° Stack: Python(Django|Flask), JavaScript, HTML-CSS
+° Banco: MSSQL,PostgreSQL
 
   
 
