@@ -2,7 +2,6 @@
 
 ° Stack: Python, JavaScript, HTML-CSS,
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
   
 
 ## Olá sou Pedro Arthur, Programador Back-End
