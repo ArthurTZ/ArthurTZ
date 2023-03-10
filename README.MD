@@ -3,7 +3,7 @@
 ° Stack: Python(Django|Flask), JavaScript, HTML-CSS
 ° Banco: MSSQL,PostgreSQL
 
-
+blank_issues_enabled: false
 
   
 
