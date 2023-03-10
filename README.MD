@@ -4,7 +4,7 @@
 ° Banco: MSSQL,PostgreSQL
 
 
-PAT_1 = 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
+
   
 
 ## Olá sou Pedro Arthur, Programador Back-End
