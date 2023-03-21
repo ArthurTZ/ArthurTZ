@@ -6,9 +6,7 @@
 
 -🎯 Me aperfeiçoando em PYTHON e seu framework Django
 
-blank_issues_enabled: false
 
-  
 
 <div align="center">
   <a href="https://github.com/ArthurTZ">
