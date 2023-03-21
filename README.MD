@@ -1,13 +1,14 @@
-° Almejo Desenvolvedor back-end em Python 🐍
+## Olá! Sou Pedro Arthur
 
-° Stack: Python(Django|Flask), JavaScript, HTML-CSS
-° Banco: MSSQL,PostgreSQL
+-👨🏽‍💻 Stack: Python(Django|Flask), JavaScript, HTML-CSS
+
+-📚 Banco: MSSQL,PostgreSQL
+
+🎯 Me aperfeiçoando em PYTHON e seu framework Django
 
 blank_issues_enabled: false
 
   
-
-## Olá sou Pedro Arthur, Programador Back-End
 
 <div align="center">
   <a href="https://github.com/ArthurTZ">
@@ -22,7 +23,8 @@ blank_issues_enabled: false
   <img align="center" alt="Arthur-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" >
   <img align="center" alt="Arthur-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" >
   <img align="center" alt="Arthur-MSSQL" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
-  
+  <img align="center" alt="Arthur-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+          
   
 </div>
 
