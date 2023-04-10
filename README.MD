@@ -1,5 +1,7 @@
 ## Olá! Sou Pedro Arthur
 
+### ![](https://komarev.com/ghpvc/?username=ArthurTZ)
+
 -👨🏽‍💻 Stack: Python(Django|Flask), JavaScript, HTML-CSS
 
 -📚 Banco: MSSQL,PostgreSQL
