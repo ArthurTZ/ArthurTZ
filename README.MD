@@ -1,7 +1,8 @@
 ## Olá! Sou Pedro Arthur
 
 ### ![](https://komarev.com/ghpvc/?username=ArthurTZ)
--💻 Back-end Junior Developer
+
+## 💻 Back-end Junior Developer
 -👨🏽‍💻 Python(Django/Flask) | C#(.NET) | MSSQL/POSTGRESQL -- JavaScript//
 -🎯 Python and Django Framework - C#(ASP.NET)
 
