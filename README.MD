@@ -1,13 +1,9 @@
 ## Olá! Sou Pedro Arthur
 
 ### ![](https://komarev.com/ghpvc/?username=ArthurTZ)
-
--👨🏽‍💻 Stack: Python(Django|Flask), JavaScript, HTML-CSS
-
--📚 Banco: MSSQL,PostgreSQL
-
--🎯 Me aperfeiçoando em PYTHON e seu framework Django
-
+-💻 Back-end Junior Developer
+-👨🏽‍💻 Python(Django/Flask) | C#(.NET) | MSSQL/POSTGRESQL -- JavaScript//
+-🎯 Python and Django Framework - C#(ASP.NET)
 
 <div align="center">
   <a href="https://github.com/ArthurTZ">
