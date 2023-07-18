@@ -9,11 +9,10 @@
 -🎯 Me aperfeiçoando em PYTHON e seu framework Django
 
 
-
 <div align="center">
   <a href="https://github.com/ArthurTZ">
-  <img height="180em" src=arthur-tz-readme-repo.vercel.app/api?username=ArthurTZ&show_icons=false&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="arthur-tz-readme-repo.vercel.app/top-langs/?username=ArthurTZ&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" alt=""ArthurTZ's Github Stats" src="https://github.arthur-tz-readme-repo.vercel.app/api?username=ArthurTZ&show_icons=false&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github.arthur-tz-readme-repo.vercel.app/top-langs/?username=ArthurTZ&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
