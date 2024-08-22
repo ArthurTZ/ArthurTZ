@@ -3,8 +3,8 @@
 ### ![](https://komarev.com/ghpvc/?username=ArthurTZ)
 
 ### °💻 Back-end Junior Developer
-### °👨🏽‍💻 Django Rest Framework | C#(.NET) | MSSQL / POSTGRESQL -- JavaScript//
-### °🎯 Python Flask and Django Framework - C#(ASP.NET)
+### °👨🏽‍💻 Django Rest Framework
+
 
 <div align="center">
   <a href="https://github.com/ArthurTZ">
