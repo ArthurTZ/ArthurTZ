@@ -2,7 +2,7 @@
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Pedro</h2>
 
 
-<!-- ### 👋 Hey there! I'm Pedro -->
+<!-- ## 👋 Hey there! I'm Pedro -->
 
 ### 👨🏻‍💻 &nbsp;About Me
 
