@@ -2,7 +2,7 @@
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Pedro</h2>
 
 
-<!-- ### 👋 &nbsp;Hey there! I'm Arthur -->
+<!-- ### 👋 Hey there! I'm Pedro -->
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -11,6 +11,8 @@
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Web Development.\
 📄 Know about my experiences <a href="https://github.com/ArthurTZ/CV/blob/master/eng_cv.pdf" target="blank">Resume</a>
 <br/>
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
