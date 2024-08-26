@@ -8,9 +8,9 @@
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Web Development.\
 📄 Know about my experiences <a href="https://github.com/ArthurTZ/CV/blob/master/eng_cv.pdf" target="blank">Resume</a>
 <br/>
-📖 &nbsp;Starting to make leetcode solutions.\
+📖 &nbsp;Starting to make leetcode solutions.
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 ### 🛠 &nbsp;Tech Stack
 
