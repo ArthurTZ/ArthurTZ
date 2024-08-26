@@ -10,7 +10,8 @@
 <br/>
 📖 &nbsp;Starting to make leetcode solutions.
 
-<img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
+<img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.git" width="400" height="300">
+
 
 ### 🛠 &nbsp;Tech Stack
 
