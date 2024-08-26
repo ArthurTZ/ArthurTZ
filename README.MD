@@ -8,6 +8,7 @@
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Web Development.\
 📄 Know about my experiences <a href="https://github.com/ArthurTZ/CV/blob/master/eng_cv.pdf" target="blank">Resume</a>
 <br/>
+📖 &nbsp;Starting to make leetcode solutions.\
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -42,6 +43,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/pedro-arthur-dev/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:pedroarthurzpyz@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
+<a href="https://leetcode.com/u/ArthurPY/><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/></a>
 </p>
 
 
