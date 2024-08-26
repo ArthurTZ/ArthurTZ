@@ -2,6 +2,7 @@
 ### - 👋 Hi, Im Pedro
 
 ### 👨🏻‍💻 &nbsp;About Me
+<img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="400" height="300" />
 
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I'm currently studying System Analysis at Estácio.\
@@ -10,7 +11,6 @@
 <br/>
 📖 &nbsp;Starting to make leetcode solutions.
 
-<img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="400" height="100" />
 
 
 ### 🛠 &nbsp;Tech Stack
