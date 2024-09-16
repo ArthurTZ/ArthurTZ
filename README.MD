@@ -7,7 +7,7 @@
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I'm currently studying System Analysis at Estácio.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Web Development.\
-📄 Know about my experiences <a href="https://github.com/ArthurTZ/CV/blob/master/PedroArthur_eng.docx" target="blank">Resume</a>
+📄 Know about my experiences <a href="https://github.com/ArthurTZ/CV/blob/master/PedroArthur_eng.pdf" target="blank">Resume</a>
 <br/>
 📖 &nbsp;Starting to make leetcode solutions.
 
