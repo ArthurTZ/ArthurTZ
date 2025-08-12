@@ -6,10 +6,8 @@
 
 💡 &nbsp;Focusing in automating large-scale web scraping and API Development.\
 🌱 &nbsp;Python Developer with experiences in : API Development, Large Scale Web Scraping. RPA Expert\
-📊 &nbsp;Developing Tools with B2B Companies \
+📊 &nbsp;Developing Tools with B2B Companies 
 📖 &nbsp;LeetCoding....
-
-
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -22,7 +20,7 @@
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)&nbsp;\
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)\
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;\
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)\
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -39,6 +37,6 @@
 <a href="https://www.linkedin.com/in/pedro-arthur-dev/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:pedroarthurzpyz@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
 <a href="https://leetcode.com/u/ArthurPY/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/></a>
-</p>
+</p>                          
 
 
